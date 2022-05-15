@@ -1,7 +1,8 @@
 # Life-Insurance-Pricing-Tool
-Creating a Pricing tool (as a Shiny App) for a large range of Insurance Products (conducted in RStudio)
 
 **NOTE: This is a collaborative group project completed by 4 students**
+
+Creating a Pricing tool (as a Shiny App) for a large range of Insurance Products (conducted in RStudio)
 
 A pricing tool application comparing premiums, reserves and visualising the 
 progress of reserves over time for different insurance products. This tool was 
